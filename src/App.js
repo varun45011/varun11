@@ -3,7 +3,7 @@ import Header from "./include/Header";
 import Footer from "./include/Footer";
 import Banner from "./Components/Banner";
 import About from "./Components/About";
-import { BrowserRouter, Route, Switch } from "react-router-dom";
+// import { BrowserRouter, Route, Switch } from "react-router-dom";
 // import { Router, Switch, Route, Link } from "react-router-dom";
 
 function App() {
