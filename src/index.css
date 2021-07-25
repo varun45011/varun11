@@ -42,7 +42,7 @@ p {
   padding: 10px;
 }
 .ctm_col_8 {
-  flex: 0 0 65%;
+  flex: 0 0 66.6%;
   padding: 10px;
 }
 .ctm_col_6 {
@@ -51,7 +51,7 @@ p {
 }
 
 .ctm_col_4 {
-  flex: 0 0 35%;
+  flex: 0 0 33.3%;
   padding: 10px;
 }
 .section_padding {
@@ -74,6 +74,7 @@ p {
 }
 .cmn_heading {
   text-align: center;
+  margin-bottom: 30px;
 }
 
 .cmn_heading h2.heading {
@@ -360,6 +361,59 @@ header.main_header a {
   align-self: stretch;
   display: flex;
 }
+/***Skills Section Start Here***/
+/***Contact Section Start Here***/
+.contact_box {
+  padding: 30px;
+  border-top: 3px solid rgb(251 197 68);
+  width: 100%;
+}
+
+.contact_box span.fa {
+  width: 80px;
+  line-height: 80px;
+  background: rgb(251 197 68 / 10%);
+  border-radius: 50%;
+  color: rgb(251 197 68);
+  font-size: 30px;
+}
+
+.contact_box h4 {
+  font-size: 22px;
+  padding: 20px 0;
+  color: #fff;
+}
+
+.contact_box a {
+  letter-spacing: 1px;
+  color: #fff;
+  text-decoration: none;
+}
+.contact_box ul.social_media {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contact_box ul.social_media li a span.fa {
+  width: auto;
+  height: auto;
+  background: none;
+  padding: 0 10px;
+  line-height: normal;
+  font-size: 25px;
+  color: #fff;
+  transition: 0.5s;
+}
+.contact_details .inner_row {
+  align-items: stretch;
+}
+.contact_details .ctm_col_4 {
+  height: auto;
+  display: flex;
+  align-items: stretch;
+}
+
 /***Footer Design Start Here***/
 footer.main_footer {
   background-color: #0f1821;
