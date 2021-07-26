@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from "react-router-dom";
 
 function Contact() {
     return (
@@ -15,14 +14,14 @@ function Contact() {
                             <div className="contact_box center dark_bg">
                                 <span className="fa fa-envelope-o"></span>
                                 <h4>Email Us</h4>
-                                <Link to="mailto:varunsareen11@gmaiil.com">varunsareen11@gmaiil.com</Link>
+                                <a href="mailto:varunsareen11@gmaiil.com">varunsareen11@gmaiil.com</a>
                             </div>
                         </div>
                         <div className="ctm_col_4">
                             <div className="contact_box center dark_bg">
                                 <span className="fa fa-phone"></span>
                                 <h4>Call Us</h4>
-                                <Link to="tel:7087702180">7087702180</Link>
+                                <a href="tel:7087702180">+91 70877-02180</a>
                             </div>
                         </div>
                         <div className="ctm_col_4">
@@ -30,11 +29,11 @@ function Contact() {
                                 <span className="fa fa-bullhorn"></span>
                                 <h4>Follow Us</h4>
                                 <ul className="social_media">
-                                    <li><Link to=""><span className="fa fa-facebook"></span></Link></li>
-                                    <li><Link to=""><span className="fa fa-twitter"></span></Link></li>
-                                    <li><Link to=""><span className="fa fa-instagram"></span></Link></li>
-                                    <li><Link to=""><span className="fa fa-linkedin"></span></Link></li>
-                                    <li><Link to=""><span className="fa fa-github"></span></Link></li>
+                                    <li><a href="https://www.facebook.com/varun.sareen.54"><span className="fa fa-facebook"></span></a></li>
+                                    <li><a href="https://twitter.com/VarunSareen13"><span className="fa fa-twitter"></span></a></li>
+                                    <li><a href="https://www.instagram.com/official_varun_sareen/"><span className="fa fa-instagram"></span></a></li>
+                                    <li><a href="https://www.linkedin.com/in/varun-sareen/"><span className="fa fa-linkedin"></span></a></li>
+                                    <li><a href=""><span className="fa fa-github"></span></a></li>
                                 </ul>
                             </div>
                         </div>

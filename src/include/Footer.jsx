@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 function Footer() {
     return (
         <>
@@ -9,19 +8,19 @@ function Footer() {
                         <div className="footer_social_links">
                             <ul className="social_links_area">
                                 <li className="social_items">
-                                    <Link to="https://www.facebook.com/"><span className="fa fa-facebook"></span>Facebook</Link>
+                                    <a href="https://www.facebook.com/varun.sareen.54"><span className="fa fa-facebook"></span>Facebook</a>
                                 </li>
                                 <li className="social_items">
-                                    <Link to="https://www.facebook.com/"><span className="fa fa-twitter"></span>Twitter</Link>
+                                    <a href="https://twitter.com/VarunSareen13"><span className="fa fa-twitter"></span>Twitter</a>
                                 </li>
                                 <li className="social_items">
-                                    <Link to="https://www.facebook.com/"><span className="fa fa-instagram"></span>Instagram</Link>
+                                    <a href="https://www.instagram.com/official_varun_sareen/"><span className="fa fa-instagram"></span>Instagram</a>
                                 </li>
                                 <li className="social_items">
-                                    <Link to="https://www.facebook.com/"><span className="fa fa-linkedin"></span>Linkedin</Link>
+                                    <a href="https://www.linkedin.com/in/varun-sareen/"><span className="fa fa-linkedin"></span>Linkedin</a>
                                 </li>
                                 <li className="social_items">
-                                    <Link to="https://www.facebook.com/"><span className="fa fa-github"></span>Github</Link>
+                                    <a href="https://github.com/varun45011"><span className="fa fa-github"></span>Github</a>
                                 </li>
                             </ul>
                         </div>

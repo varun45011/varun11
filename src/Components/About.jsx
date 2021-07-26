@@ -34,7 +34,38 @@ const About = () => {
                                             </ul>
                                         </div>
                                     </div>
-                                    <div className="ctm_col_12"><div className="about_box"></div></div>
+                                    <div className="ctm_col_12">
+                                        <div className="about_box">
+                                            <p className="about_cont_info center">Design process to make your project real.</p>
+                                            <div class="step_box">
+                                                <div className="steps">
+                                                    <div className="arrow"></div>
+                                                    <div className="indicator"></div>
+                                                    <div className="step_name">Discovery</div>
+                                                </div>
+                                                <div className="steps">
+                                                    <div className="arrow"></div>
+                                                    <div className="indicator"></div>
+                                                    <div className="step_name">Strategy</div>
+                                                </div>
+                                                <div className="steps">
+                                                    <div className="arrow"></div>
+                                                    <div className="indicator"></div>
+                                                    <div className="step_name">Design</div>
+                                                </div>
+                                                <div className="steps">
+                                                    <div className="arrow"></div>
+                                                    <div className="indicator"></div>
+                                                    <div className="step_name">Build</div>
+                                                </div>
+                                                <div className="steps">
+                                                    <div className="arrow"></div>
+                                                    <div className="indicator"></div>
+                                                    <div className="step_name">Launch</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
