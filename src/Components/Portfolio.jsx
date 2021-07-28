@@ -19,7 +19,7 @@ function Portfolio() {
                                     <div className="back">
                                         <h2>Angular</h2>
                                         <p>Good tools make application development quicker and easier to maintain than if you did everything by hand..</p>
-                                        <a href="http://proworker.ca/" target="_blank" className="portfolio_btn btn">Preview</a>
+                                        <a href="http://proworker.ca/" target="_blank" rel="noreferrer" className="portfolio_btn btn">Preview</a>
                                     </div>
                                 </div>
                             </div>
