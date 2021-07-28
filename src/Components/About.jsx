@@ -37,7 +37,7 @@ const About = () => {
                                     <div className="ctm_col_12">
                                         <div className="about_box">
                                             <p className="about_cont_info center">Design process to make your project real.</p>
-                                            <div class="step_box">
+                                            <div className="step_box">
                                                 <div className="steps">
                                                     <div className="arrow"></div>
                                                     <div className="indicator"></div>
