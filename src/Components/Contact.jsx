@@ -33,7 +33,7 @@ function Contact() {
                                     <li><a href="https://twitter.com/VarunSareen13"><span className="fa fa-twitter"></span></a></li>
                                     <li><a href="https://www.instagram.com/official_varun_sareen/"><span className="fa fa-instagram"></span></a></li>
                                     <li><a href="https://www.linkedin.com/in/varun-sareen/"><span className="fa fa-linkedin"></span></a></li>
-                                    <li><a href=""><span className="fa fa-github"></span></a></li>
+                                    <li><a href="https://github.com/varun45011"><span className="fa fa-github"></span></a></li>
                                 </ul>
                             </div>
                         </div>
