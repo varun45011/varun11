@@ -12,11 +12,11 @@ function Portfolio() {
                     <div className="inner_row">
                         <div className="ctm_col_4">
                             <div className="portfolio_flip center">
-                                <div class="flip">
-                                    <div class="front">
-                                        <h1 class="text-shadow">MOUNTAIN</h1>
+                                <div className="flip">
+                                    <div className="front">
+                                        <h1 className="text-shadow">MOUNTAIN</h1>
                                     </div>
-                                    <div class="back">
+                                    <div className="back">
                                         <h2>Angular</h2>
                                         <p>Good tools make application development quicker and easier to maintain than if you did everything by hand..</p>
                                         <a className="portfolio_btn btn">Preview</a>
@@ -26,11 +26,11 @@ function Portfolio() {
                         </div>
                         <div className="ctm_col_4">
                             <div className="portfolio_flip center">
-                                <div class="flip">
-                                    <div class="front">
-                                        <h1 class="text-shadow">MOUNTAIN</h1>
+                                <div className="flip">
+                                    <div className="front">
+                                        <h1 className="text-shadow">MOUNTAIN</h1>
                                     </div>
-                                    <div class="back">
+                                    <div className="back">
                                         <h2>Angular</h2>
                                         <p>Good tools make application development quicker and easier to maintain than if you did everything by hand..</p>
                                         <a className="portfolio_btn btn">Preview</a>
@@ -40,11 +40,11 @@ function Portfolio() {
                         </div>
                         <div className="ctm_col_4">
                             <div className="portfolio_flip center">
-                                <div class="flip">
-                                    <div class="front">
-                                        <h1 class="text-shadow">MOUNTAIN</h1>
+                                <div className="flip">
+                                    <div className="front">
+                                        <h1 className="text-shadow">MOUNTAIN</h1>
                                     </div>
-                                    <div class="back">
+                                    <div className="back">
                                         <h2>Angular</h2>
                                         <p>Good tools make application development quicker and easier to maintain than if you did everything by hand..</p>
                                         <a className="portfolio_btn btn">Preview</a>
@@ -54,11 +54,11 @@ function Portfolio() {
                         </div>
                         <div className="ctm_col_4">
                             <div className="portfolio_flip center">
-                                <div class="flip">
-                                    <div class="front">
-                                        <h1 class="text-shadow">MOUNTAIN</h1>
+                                <div className="flip">
+                                    <div className="front">
+                                        <h1 className="text-shadow">MOUNTAIN</h1>
                                     </div>
-                                    <div class="back">
+                                    <div className="back">
                                         <h2>Angular</h2>
                                         <p>Good tools make application development quicker and easier to maintain than if you did everything by hand..</p>
                                         <a className="portfolio_btn btn">Preview</a>
@@ -68,11 +68,11 @@ function Portfolio() {
                         </div>
                         <div className="ctm_col_4">
                             <div className="portfolio_flip center">
-                                <div class="flip">
-                                    <div class="front">
-                                        <h1 class="text-shadow">MOUNTAIN</h1>
+                                <div className="flip">
+                                    <div className="front">
+                                        <h1 className="text-shadow">MOUNTAIN</h1>
                                     </div>
-                                    <div class="back">
+                                    <div className="back">
                                         <h2>Angular</h2>
                                         <p>Good tools make application development quicker and easier to maintain than if you did everything by hand..</p>
                                         <a className="portfolio_btn btn">Preview</a>
@@ -82,11 +82,11 @@ function Portfolio() {
                         </div>
                         <div className="ctm_col_4">
                             <div className="portfolio_flip center">
-                                <div class="flip">
-                                    <div class="front">
-                                        <h1 class="text-shadow">MOUNTAIN</h1>
+                                <div className="flip">
+                                    <div className="front">
+                                        <h1 className="text-shadow">MOUNTAIN</h1>
                                     </div>
-                                    <div class="back">
+                                    <div className="back">
                                         <h2>Angular</h2>
                                         <p>Good tools make application development quicker and easier to maintain than if you did everything by hand..</p>
                                         <a className="portfolio_btn btn">Preview</a>
